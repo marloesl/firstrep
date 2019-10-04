@@ -12,3 +12,6 @@ def veluwe(vraag1, vraag2):
         return "Er was een immigratiecrisis op de Veluwe"
 
 print(veluwe(rusland, oekraine))
+
+
+print("je mama en papa")
