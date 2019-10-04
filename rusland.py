@@ -6,6 +6,8 @@ def veluwe(vraag1, vraag2):
         return "Leugens!! De Volkskrant schrijft leugens!!"
     elif vraag1 != "nee" and vraag != "ja":
         return " Blablabla Blablabla Blablabla"
+    elif vraag1 !="ja" and vraag != "nee":
+    	return "Push it baby"
     else:
         return "Er was een immigratiecrisis op de Veluwe"
 
