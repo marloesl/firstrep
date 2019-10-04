@@ -8,6 +8,8 @@ def veluwe(vraag1, vraag2):
         return " Blablabla Blablabla Blablabla"
     elif vraag1 !="ja" and vraag != "nee":
     	return "Push it baby"
+    elif vraag1 == "je moeder":
+    	return "Nee Jandino is niet grappig"
     else:
         return "Er was een immigratiecrisis op de Veluwe"
 
